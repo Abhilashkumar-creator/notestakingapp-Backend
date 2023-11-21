@@ -1,8 +1,5 @@
 # MERN Stack - Notes App 
 
-## Demo: https://devat-notes.herokuapp.com/
-
-
 ## Install dependencies for server 
 ### `npm install`
 
